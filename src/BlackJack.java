@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class BlackJack {
     public static void main(String[] args) {
         /*
+        case:
             Welcome to play BLACK JACK.
             Enter a your first card number (J = 11, Q = 12, K = 13, A = 14): 1
             Enter a your second card number (J = 11, Q = 12, K = 13, A = 14): 14
